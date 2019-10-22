@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url('travis.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#banner{
+	font-family: Lato;
+	background:rgba(255,255,255,0.8);
+}
+
+#banner .container-fluid .jumbotron{
+	background-color: transparent;
+}
+
+#banner span{
+	font-weight: bolder;
+	font-style: italic;
+}
